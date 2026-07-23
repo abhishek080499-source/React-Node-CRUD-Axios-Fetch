@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # React Form Validation App
 
 A simple and responsive **React Form Validation Application** that demonstrates how to validate user input using React Hooks, regular expressions (Regex), and client-side validation techniques.
@@ -213,10 +214,3 @@ This project is open source and available under the **MIT License**.
 ---
 
 ### ⭐ If you found this project helpful, consider giving it a star on GitHub!# React + Vite
-
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
